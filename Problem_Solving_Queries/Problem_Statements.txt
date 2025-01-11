@@ -1,0 +1,37 @@
+Profit and Sales Analysis:
+-Which product categories are driving the highest profit margins and contributing significantly to the overall profitability?
+-How does each customer contribute to the business in terms of total sales and profit? Can we break it down by individual customer?
+-What does the overall sales and profit picture look like when analyzed by month? Are there any seasonal patterns emerging?
+-Which products are delivering the highest profit margins, and what makes them stand out in terms of profitability?
+-How do sales and profits distribute across various regions (states, cities), and which regions are leading in terms of revenue generation?
+
+
+Customer Insights:
+-How many unique products is each customer purchasing, and are there any standout customers who are exploring a wide range of products?
+-Which customers are showcasing a keen interest in diverse product selections, based on their purchasing of unique product prices?
+-What percentage of customers have made repeat purchases, and how loyal are they to the brand or product range?
+
+
+Order Insights:
+-How many orders were delayed or processed late based on the shipping date, and how does this impact overall order fulfillment performance?
+-What proportion of orders have turned out to be profitable (order_profit_per_order > 0), highlighting the successful transactions in our sales pipeline?
+
+
+Product Performance:
+-What are the top 10 products by total sales, and how are they performing in comparison to the rest of the product range?
+-Which products have the highest sales volume, and how does their popularity influence the business strategy?
+	
+
+Customer Segments:
+-Can we analyze the total number of orders received from each customer segment and identify which segment is the most active in placing orders?
+-What is the average sales amount for each customer segment, and how does this metric reflect the purchasing behavior across different customer groups?
+
+
+Shipping-Related Analysis:
+-What is the average order size (total sales) and profit for each shipping mode, and how do these factors affect shipping strategy?
+-How many orders were shipped using each shipping mode, and what insights can we derive from this distribution of shipping preferences?
+
+
+Time-Based Trends:
+-Can we identify the month with the highest sales or profit, and what factors might have contributed to this peak performance?
+-What are the trends in sales over time, broken down by month or quarter, and how can we use these trends to forecast future performance?
