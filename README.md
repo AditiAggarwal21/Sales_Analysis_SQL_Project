@@ -74,3 +74,24 @@ Which products have the highest profit margins?
 How many unique products do customers purchase on average?
 Which shipping modes are most popular?
 For a full list, refer to **questions.txt**.
+
+🚀 Usage
+Clone the repository:
+git clone https://github.com/your-username/sales-analysis-project.git
+
+Navigate to the project directory:  
+cd sales-analysis-project
+Import the CSV files into your preferred SQL database.
+
+Run the SQL scripts to create tables and perform analysis.
+
+Explore the results using the provided questions or create your own queries.
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request. For major changes, please open an issue first.
+
+📜 License
+This project is licensed under the MIT License.
+
+Let me know if you want any further adjustments!
+
