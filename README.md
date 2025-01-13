@@ -82,26 +82,3 @@ Contributions are welcome! Feel free to fork this repository, create a branch, a
 This project is licensed under the MIT License.
 
 Let me know if you want any further adjustments!
-
-> ### Folder Structure
-> - **sales-analysis-project/**
->   - **csv-files/** *(Contains 6 CSV files representing tables/schemas)*
->     - customers.csv
->     - orders.csv
->     - sales.csv
->     - products.csv
->     - categories.csv
->     - regions.csv
->   - **sql-scripts/** *(Contains 6 SQL scripts corresponding to the CSV files)*
->     - customers.sql
->     - orders.sql
->     - sales.sql
->     - products.sql
->     - categories.sql
->     - regions.sql
->   - **questions.txt** *(Combines all questions from the 6 CSV files)*
->   - **bonus-folder/** *(Additional resources for further exploration)*
->     - bonus-dataset.csv
->     - bonus-questions.txt
->     - bonus-sql-script.sql
->   - **README.md** *(Repository documentation)*
