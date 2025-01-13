@@ -6,14 +6,14 @@ Welcome to the **Sales Analysis Project** repository! This project demonstrates 
 
 ## 📋 Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Folder Structure](#folder-structure)  
-3. [Data Description](#data-description)  
-4. [SQL Scripts](#sql-scripts)  
-5. [Questions Addressed](#questions-addressed)  
-6. [Usage](#usage)  
-7. [Contributing](#contributing)  
-8. [License](#license)
+1. [Introduction](#Introduction)  
+2. [Folder Structure](#Folder-Structure)  
+3. [Data Description](#Data-Description)  
+4. [SQL Scripts](#Sql-Scripts)  
+5. [Questions Addressed](#Questions-Addressed)  
+6. [Usage](#Usage)  
+7. [Contributing](#Contributing)  
+8. [License](#License)
 
 ---
 
@@ -23,75 +23,97 @@ The **Sales Analysis Project** focuses on breaking down a large dataset into man
 The dataset was split into **6 CSV files**, each representing a specific table/schema. SQL scripts corresponding to these CSV files are included for creating and querying the data.  
 Additionally, this repository contains a **bonus folder** with an extra dataset, SQL script, and corresponding analytical questions.
 
----
-
 ## 📂 Folder Structure
 
-`` plaintext
-sales-analysis-project/
-├── csv-files/                   # Contains 6 CSV files representing tables/schemas
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── sales.csv
-│   ├── products.csv
-│   ├── categories.csv
-│   ├── regions.csv
-│
-├── sql-scripts/                 # Contains 6 SQL scripts corresponding to the CSV files
-│   ├── customers.sql
-│   ├── orders.sql
-│   ├── sales.sql
-│   ├── products.sql
-│   ├── categories.sql
-│   ├── regions.sql
-│
-├── questions.txt                # Combines all questions from the 6 CSV files
-│
-├── bonus-folder/                # Additional resources for further exploration
-│   ├── bonus-dataset.csv
-│   ├── bonus-questions.txt
-│   ├── bonus-sql-script.sql
-│
-└── README.md                    # Repository documentation
+> ### Folder Structure
+> - **sales-analysis-project/**
+>   - **csv-files/** *(Contains 6 CSV files representing tables/schemas)*
+>     - Customer_data.csv
+>     - orders_data.csv
+>     - sales_data.csv
+>     - product_data.csv
+>     - category_data.csv
+>     - department_data.csv
+>   - **sql-scripts/** *(Contains 6 SQL scripts corresponding to the CSV files)*
+>     - Customers.sql
+>     - Orders.sql
+>     - Sales.sql
+>     - Products.sql
+>     - Categories.sql
+>     - Departments.sql
+>   - **Questions.txt** *(Combines all questions from the all CSV files)*
+>   - **Problem_Solving_Queries/** *(Additional resources for further exploration)*
+>     - bonus-dataset.csv
+>     - Problem_Statements.txt
+>     - bonus-sql-script.sql
+>   - **README.md** *(Repository documentation)*
 
-📊Data Description
-Customers: Contains customer details such as ID, name, segment, and location.
-Orders: Tracks customer orders, including IDs, dates, and shipping modes.
-Sales: Represents order details, including product prices, quantities, and profits.
-Products: Includes information about products such as IDs, names, and prices.
-Categories: Lists product categories and their descriptions.
-Regions: Provides data about regions, including names and IDs
+## 📊Data Description
 
-🗃️ SQL Scripts
+**Customers**: Contains customer details such as ID, name, segment, and location.
+**Orders**: Tracks customer orders, including IDs, dates, and shipping modes.
+**Sales**: Represents order details, including product prices, quantities, and profits.
+**Products**: Includes information about products such as IDs, names, and prices.
+**Categories**: Lists product categories and their descriptions.
+**Regions**: Provides data about regions, including names and IDs
+
+## 🗃️ SQL Scripts
+
 Each SQL script corresponds to one of the datasets, enabling easy table creation and data analysis. The scripts are modular and can be run independently.
 
-❓ Questions Addressed
+## ❓ Questions Addressed
+
 This project addresses a variety of analytical questions, such as:
 
-What are the most profitable product categories?
-How do sales and profits vary by month?
-Which products have the highest profit margins?
-How many unique products do customers purchase on average?
-Which shipping modes are most popular?
-For a full list, refer to **questions.txt**.
+* What are the most profitable product categories?
+* How do sales and profits vary by month?
+* Which products have the highest profit margins?
+* How many unique products do customers purchase on average?
+* Which shipping modes are most popular?
+* For a full list, refer to **questions.txt**.
 
-🚀 Usage
-Clone the repository:
-git clone https://github.com/your-username/sales-analysis-project.git
+## 🚀 Usage
 
-Navigate to the project directory:  
+1.**Clone the repository**:
+
+```git clone https://github.com/your-username/sales-analysis-project.git```
+
+
+2.**Navigate to the project directory**:  
 cd sales-analysis-project
-Import the CSV files into your preferred SQL database.
+3.Import the CSV files into your preferred SQL database.
+4.Run the SQL scripts to create tables and perform analysis.
+5.Explore the results using the provided questions or create your own queries.
 
-Run the SQL scripts to create tables and perform analysis.
+## 🤝 Contributing
 
-Explore the results using the provided questions or create your own queries.
-
-🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request. For major changes, please open an issue first.
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License.
 
 Let me know if you want any further adjustments!
 
+> ### Folder Structure
+> - **sales-analysis-project/**
+>   - **csv-files/** *(Contains 6 CSV files representing tables/schemas)*
+>     - customers.csv
+>     - orders.csv
+>     - sales.csv
+>     - products.csv
+>     - categories.csv
+>     - regions.csv
+>   - **sql-scripts/** *(Contains 6 SQL scripts corresponding to the CSV files)*
+>     - customers.sql
+>     - orders.sql
+>     - sales.sql
+>     - products.sql
+>     - categories.sql
+>     - regions.sql
+>   - **questions.txt** *(Combines all questions from the 6 CSV files)*
+>   - **bonus-folder/** *(Additional resources for further exploration)*
+>     - bonus-dataset.csv
+>     - bonus-questions.txt
+>     - bonus-sql-script.sql
+>   - **README.md** *(Repository documentation)*
