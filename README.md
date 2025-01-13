@@ -62,7 +62,9 @@ This project addresses a variety of analytical questions, such as:
 
 1.**Clone the repository**:
 
-```git clone https://github.com/your-username/sales-analysis-project.git```
+``` sql
+https://github.com/AditiAggarwal21/Sales_Analysis_SQL_Project.git
+```
 
 
 2.**Navigate to the project directory**:  
