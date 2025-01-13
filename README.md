@@ -27,26 +27,12 @@ Additionally, this repository contains a **bonus folder** with an extra dataset,
 
 > ### Folder Structure
 > - **sales-analysis-project/**
->   - **csv-files/** *(Contains 6 CSV files representing tables/schemas)*
->     - Customer_data.csv
->     - orders_data.csv
->     - sales_data.csv
->     - product_data.csv
->     - category_data.csv
->     - department_data.csv
->   - **sql-scripts/** *(Contains 6 SQL scripts corresponding to the CSV files)*
->     - Customers.sql
->     - Orders.sql
->     - Sales.sql
->     - Products.sql
->     - Categories.sql
->     - Departments.sql
->   - **Questions.txt** *(Combines all questions from the all CSV files)*
->   - **Problem_Solving_Queries/** *(Additional resources for further exploration)*
->     - bonus-dataset.csv
->     - Problem_Statements.txt
->     - bonus-sql-script.sql
->   - **README.md** *(Repository documentation)*
+>   - **project-resources/**
+>     - **CSV-Files/**
+>     - **Data_insight_Questions/**
+>     - **Problem_Solving_Queries/**
+>     - **SQL-scripts/** 
+>   - **README.md**
 
 ## 📊Data Description
 
