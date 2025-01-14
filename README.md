@@ -21,7 +21,7 @@ Welcome to the **Sales Analysis Project** repository! This project demonstrates 
 
 The **Sales Analysis Project** focuses on breaking down a large dataset into manageable parts, analyzing the data with SQL, and solving various analytical problems.  
 The dataset was split into **6 CSV files**, each representing a specific table/schema. SQL scripts corresponding to these CSV files are included for creating and querying the data.  
-Additionally, this repository contains a **bonus folder** with an extra dataset, SQL script, and corresponding analytical questions.
+Additionally, this repository contains a **problem solving queries folder** with an extra dataset, SQL script, and corresponding analytical questions based on real world scenarios.
 
 ## 📂 Folder Structure 
 
