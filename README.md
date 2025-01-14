@@ -6,7 +6,7 @@ Welcome to the **Sales Analysis Project** repository! This project demonstrates 
 
 ## 📋 Table of Contents
 
-1. [Introduction](#Introduction)  
+1. [Introduction](##Introduction)  
 2. [Folder Structure](#Folder-Structure)  
 3. [Data Description](#Data-Description)  
 4. [SQL Scripts](#Sql-Scripts)  
@@ -33,6 +33,7 @@ Additionally, this repository contains a **bonus folder** with an extra dataset,
 >     - **Problem_Solving_Queries/**
 >     - **SQL-scripts/** 
 >   - **README.md**
+>   - **LICENSE**
 
 ## 📊Data Description
 
