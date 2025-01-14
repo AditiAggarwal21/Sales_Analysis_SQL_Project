@@ -6,14 +6,14 @@ Welcome to the **Sales Analysis Project** repository! This project demonstrates 
 
 ## 📋 Table of Contents
 
-1. [Introduction](##📖Introduction)  
-2. [Folder Structure](#Folder-Structure)  
-3. [Data Description](#Data-Description)  
-4. [SQL Scripts](#Sql-Scripts)  
-5. [Questions Addressed](#Questions-Addressed)  
-6. [Usage](#Usage)  
-7. [Contributing](#Contributing)  
-8. [License](#License)
+1. [Introduction](#introduction)  
+2. [Folder Structure](#folder-structure)  
+3. [Data Description](#data-description)  
+4. [SQL Scripts](#sql-scripts)  
+5. [Questions Addressed](#questions-addressed)  
+6. [Usage](#usage)  
+7. [Contributing](#contributing)  
+8. [License](#license)
 
 ---
 
@@ -23,7 +23,7 @@ The **Sales Analysis Project** focuses on breaking down a large dataset into man
 The dataset was split into **6 CSV files**, each representing a specific table/schema. SQL scripts corresponding to these CSV files are included for creating and querying the data.  
 Additionally, this repository contains a **bonus folder** with an extra dataset, SQL script, and corresponding analytical questions.
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
 
 > ### Folder Structure
 > - **sales-analysis-project/**
