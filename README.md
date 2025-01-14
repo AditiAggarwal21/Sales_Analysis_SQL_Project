@@ -42,7 +42,7 @@ Additionally, this repository contains a **bonus folder** with an extra dataset,
 **Sales**: Represents order details, including product prices, quantities, and profits.
 **Products**: Includes information about products such as IDs, names, and prices.
 **Categories**: Lists product categories and their descriptions.
-**Regions**: Provides data about regions, including names and IDs
+**Departments**: Details about organizational units managing products.
 
 ## 🗃️ SQL Scripts
 
@@ -61,18 +61,20 @@ This project addresses a variety of analytical questions, such as:
 
 ## 🚀 Usage
 
-1.**Clone the repository**:
+* **Clone the repository**:
 
 ``` sql
 https://github.com/AditiAggarwal21/Sales_Analysis_SQL_Project.git
 ```
 
 
-2.**Navigate to the project directory**:  
-cd sales-analysis-project
-3.Import the CSV files into your preferred SQL database.
-4.Run the SQL scripts to create tables and perform analysis.
-5.Explore the results using the provided questions or create your own queries.
+* **Navigate to the project directory**:  
+```sql
+cd Sales_Analysis_SQL_project
+```
+* Import the CSV files into your preferred SQL database.
+* Run the SQL scripts to create tables and perform analysis.
+* Explore the results using the provided questions or create your own queries.
 
 ## 🤝 Contributing
 
@@ -80,6 +82,6 @@ Contributions are welcome! Feel free to fork this repository, create a branch, a
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 Let me know if you want any further adjustments!
